@@ -1,5 +1,5 @@
 
-import commonAPI from "./commonapi"
+import commonAPI from "./commonAPI"
 import SERVER_URL from "./serverUrl"
 
 // register called by auth component when user click register btn
